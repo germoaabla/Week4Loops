@@ -1,0 +1,14 @@
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\Week4WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\Week4WhileLoop.AssemblyInfoInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\Week4WhileLoop.AssemblyInfo.cs
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\Week4WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\bin\Debug\net8.0\Week4WhileLoop.exe
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\bin\Debug\net8.0\Week4WhileLoop.deps.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\bin\Debug\net8.0\Week4WhileLoop.runtimeconfig.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\bin\Debug\net8.0\Week4WhileLoop.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\bin\Debug\net8.0\Week4WhileLoop.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\Week4WhileLoop.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\refint\Week4WhileLoop.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\Week4WhileLoop.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\Week4WhileLoop.genruntimeconfig.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week4Loops\Week4WhileLoop\obj\Debug\net8.0\ref\Week4WhileLoop.dll
